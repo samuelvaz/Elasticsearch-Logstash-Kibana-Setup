@@ -1,4 +1,4 @@
-![](img/images.png)
+![](img/imag.png)
 
 # Elasticsearch-Logstash-Kibana-Setup
 
